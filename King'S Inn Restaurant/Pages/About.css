@@ -1,0 +1,37 @@
+*{
+ background-image: url(../Images/done.avif);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+.AboutUs{
+  color: white;
+  text-align: center;
+}
+
+.AboutUs:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.long-text{
+  color: white;
+  font-size: 25px;
+}
+
+.hype{
+  color: white;
+  text-align: center;
+}
+
+.hype:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.Return-home{
+  color: gold;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}

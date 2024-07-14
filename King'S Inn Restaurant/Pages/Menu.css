@@ -1,0 +1,160 @@
+*{
+  background-image: url(../Images/done.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p{
+  color: white;
+}
+
+.Menu-header{
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+ }
+ .Menu-header:hover{
+  color: gold;
+  cursor: pointer;
+
+ }
+ 
+ .one{
+  color:white;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+
+ }
+
+ .one:hover{
+  color: gold;
+  cursor: pointer;
+
+ }
+
+
+
+
+.margin{
+  margin: 0;
+  font-size: 25px;
+}
+
+.margin:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.margin-one{
+  margin-top: 50;
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.margin-one:hover{
+  color: gold;
+  cursor: pointer;
+}
+ 
+.none{
+  margin-top: 0;
+}
+
+.none:hover{
+  color: gold;
+  cursor: pointer; 
+}
+
+.Dishes{
+  color: white;
+  text-align: center;
+  font-weight: Bold;
+  font-family: Arial;
+}
+
+.Dishes:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.juice-header{
+  color: white;
+  text-align: center;
+  font-weight: Bold;
+  font-family: Arial;
+  margin-top: 50;
+}
+
+.juice-header:hover{
+  color: gold;
+  cursor: pointer;
+}
+ 
+
+.two{
+  color:white;
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+}
+
+.two:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.juice-price{
+  margin: 0;
+  font-size: 25px;
+}
+
+.juice-price:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.juice{
+  margin-top: 50;
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.juice:hover{
+  color: gold;
+  cursor: pointer;
+}
+
+.delivery-header{
+  color: white;
+  text-align: center;
+  font-weight: Bold;
+  font-family: Arial;
+  margin-top: 50;
+}
+
+.call{
+  font-size: 25px;
+}
+
+.list{
+  color: gold;
+  font-size: 25px;
+}
+
+.copyrights{
+  color: white;
+  font-family: Arial;
+  font-weight: Bold;
+  text-align: Center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.Return-home{
+  color: gold;
+  margin-left: 350px;
+  font-size: 30px;
+  font-weight: bold;
+}

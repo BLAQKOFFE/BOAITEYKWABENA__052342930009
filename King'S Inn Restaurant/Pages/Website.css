@@ -1,0 +1,259 @@
+.Theme{
+  text-align: center;
+  color: black;
+  font-family: Arial;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Theme:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.Bar{
+  border: none;
+  border-top: 3px solid black;
+  background-color: black;
+  width: 100%;
+}
+
+.LongBar2{
+  border: none;
+  border-top: 3px solid black;
+  background-color: black;
+  width: 100%;
+}
+
+.Home{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border: thin;
+  border-radius: 10px;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Home:hover{
+  color: red;
+  cursor: pointer;
+}
+
+
+.Menu{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 50px;
+  border: none;
+  border-radius: 10px;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Menu:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.About{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 50px;
+  border: thin;
+  border-radius: 10px;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.About:hover{
+  color: red;
+  cursor: pointer;
+}
+
+
+.Contact{
+ padding-left: 50px; 
+ padding-right: 50px;
+ padding-top: 5px;
+ padding-bottom: 5px;
+ margin-right: 50px;
+ border: thin;
+ border-radius: 10px;
+ color: black;
+ font-size: 30px;
+ font-weight: bold;
+}
+
+.Contact:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.Styled-image{
+  width: 202vh;
+  height: 80vh;
+}
+
+.Styled-image:hover{
+  opacity: 0.4;
+}
+
+.Types{
+  color: black;
+  font-family: Arial;
+  text-align: Center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.Types:hover{
+ color: red;
+ cursor: pointer;
+}
+
+.Lobster{
+  width: 45vh;
+  height: 40vh;
+  border-radius: 15px;
+}
+
+.Lobster:hover{
+ opacity: 0.4;  
+}
+
+.mrs:hover{
+  opacity: 0.4;
+}
+
+.Noodles:hover{
+  opacity: 0.4;
+}
+
+.grilled-lobster:hover{
+  opacity: 0.4;
+}
+
+.Prices:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.Noodles{
+  width: 45vh;
+  height: 40vh;
+  border-radius: 15px;
+  margin-left: 50px;
+}
+
+.mrs{
+  width: 45vh;
+  height: 40vh;
+  border-radius: 15px;
+  margin-left: 50px;
+}
+
+.grilled-lobster{
+  width: 45vh;
+  height: 40vh;
+  border-radius: 15px;
+  margin-left: 50px;
+}
+
+.Prices{
+  color: black;
+  font-family: Arial;
+  text-align: Center;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.plantain-rice{
+  width: 30vh;
+  border-radius: 100px;
+  margin-left: 50px;
+}
+
+.plantain-rice:hover{
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.plantain-price{
+  margin-left: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+.plantain-price:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.Fried-rice{
+  width: 30vh;
+  border-radius: 100px;
+  margin-left: 50px;
+
+}
+
+.Fried-rice:hover{
+  opacity: 0.4;
+}
+
+.FRice-price{
+  margin-left: 50px;
+  color: black;
+  font-weight: bold;
+}
+
+.FRice-price:hover{
+  color: Red;
+  cursor: pointer;
+}
+
+.Spaghetti{
+  width: 30vh;
+  border-radius: 100px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.Spaghetti:hover{
+  opacity: 0.4;
+}
+
+.Spaghetti-price{
+  margin-left: 320px;
+  color: black;
+  font-weight: bold;
+}
+
+.Spaghetti-price:hover{
+  color: red;
+  cursor: pointer;
+}
+
+.copyrights{
+  color: black;
+  font-family: Arial;
+  font-weight: Bold;
+  text-align: Center;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.copyrights:hover{
+  cursor: pointer;
+  color: red;
+}

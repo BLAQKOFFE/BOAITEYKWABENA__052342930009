@@ -1,0 +1,84 @@
+*{
+  background-image: url(../Images/done.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Address{
+  color: gold;
+  font-weight: bold;
+  font-size: 50px;
+  font-family:Arial;
+  margin: 0;
+}
+
+.hours{
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  font-family:Arial;
+  margin-top: 0;
+  margin-bottom: 50;
+}
+
+.street{
+  color: white;
+  margin: 0;
+  margin-left: 40px;
+  font-size: 15px;
+}
+
+.street1{
+  margin-top: 50;
+  color: white;
+  font-size: 15px;
+  margin-left: 40px;
+}
+
+.time{
+  font-size: 13px;
+  color: white;
+  margin: 0;
+}
+
+.time1{
+  font-size: 13px;
+  color: white;
+  margin-top: 50;
+}
+
+.yellow{
+  color: gold;
+  font-weight: bold;
+  font-size: 50px;
+  font-family:Arial;
+  margin-top: 50;
+}
+
+.white{
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  font-family:Arial;
+  margin-top: 50;
+}
+
+.call{
+  font-size: 17px;
+  color: white;
+  margin: 0;
+  margin-top: 10;
+}
+
+.list{
+  color: gold;
+  margin: 0;
+  font-size: 15px;
+}
+
+.Return-home{
+  color: gold;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+}
